@@ -109,7 +109,7 @@ Me chamo Vinicius Motta, tenho 23 anos, concluí o cursando de Análise e Desenv
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusMotta08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusMotta08&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
