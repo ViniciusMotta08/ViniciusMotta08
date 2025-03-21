@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinicius Motta, tenho 23 anos, concluí o cursando de Análise e Desenvolvimento de Sistemas na UniFecaf. Tenho grande interesse por tecnologia e foco na programação back-end, especialmente em C#. 
+Me chamo Vinicius Motta, tenho 23 anos, concluí o curso de Análise e Desenvolvimento de Sistemas na UniFecaf. Tenho grande interesse por tecnologia e foco na programação back-end, especialmente em C#. 
 
 <p align="left">  
     <a href="https://github.com/ViniciusMotta08?tab=followers">
