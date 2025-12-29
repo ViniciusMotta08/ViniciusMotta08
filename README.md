@@ -21,8 +21,6 @@ Me chamo Vinicius Motta, tenho 23 anos, concluí o curso de Análise e Desenvolv
     </a>        
 </p>
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
